@@ -30,3 +30,6 @@ streamlit run app.py
 ## 💡 Business Value
 
 This app helps identify high-risk customers and enables proactive retention strategies.
+
+## 🌐 Live Demo
+https://TU-URL.streamlit.app
